@@ -1,0 +1,14 @@
+@relation cw-dataset-rem-scores
+
+@attribute 'Checking Status' string
+@attribute 'Credit History' string
+@attribute Purpose string
+@attribute 'Credit Amount' string
+@attribute 'Saving Status' string
+@attribute Employment string
+@attribute 'Personal Status' string
+@attribute Age string
+@attribute Job string
+@attribute Class string
+
+@data

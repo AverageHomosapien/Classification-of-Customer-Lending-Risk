@@ -1,0 +1,43 @@
+val = float(value)
+if val < 1000:
+    return "0<=Credit<1000"
+elif val < 2000:
+    return "1000<=Credit<2000"
+elif val < 3000:
+    return "2000<=Credit<3000"
+elif val < 4000:
+    return "3000<=Credit<4000"
+elif val < 5000:
+    return "4000<=Credit<5000"
+elif val < 6000:
+    return "5000<=Credit<6000"
+elif val < 7000:
+    return "6000<=Credit<7000"
+elif val < 8000:
+    return "7000<=Credit<8000"
+elif val < 9000:
+    return "8000<=Credit<9000"
+elif val < 10000:
+    return "9000<=Credit<10000"
+elif val < 11000:
+    return "10000<=Credit<11000"
+elif val < 12000:
+    return "11000<=Credit<12000"
+elif val < 13000:
+    return "12000<=Credit<13000"
+elif val < 14000:
+    return "13000<=Credit<14000"
+elif val < 15000:
+    return "14000<=Credit<15000"
+elif val < 16000:
+    return "15000<=Credit<16000"
+elif val < 17000:
+    return "16000<=Credit<17000"
+elif val < 18000:
+    return "17000<=Credit<18000"
+elif val < 19000:
+    return "18000<=Credit<19000"
+elif val < 20000:
+    return "19000<=Credit<20000"
+elif val < 21000:
+    return "20000<=Credit<21000"

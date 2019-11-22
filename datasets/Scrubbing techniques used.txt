@@ -1,0 +1,42 @@
+Removed quotations from the various columns (to be found later)
+Cleaned the purpose column (incorrect information)
+
+2x 'yes' removed from the skilled column
+Headers added to the columns
+
+Removed extra large credit:
+1.11E+08
+1.93E+07
+1.36E+07
+1.39E+07
+7190000
+5180000
+5850000
+6.36E+07
+(1000-990)
+
+Accuracy unchanged on dataset between all fields there and credit removed (73%)
+
+Found incorrect ages and cleaned them (removed)
+Removed ages:
+6
+1
+
+Edited:
+Others edited (negatives and decimals, as well as 222 and 666?)
+Tried https://stackoverflow.com/questions/20379503/enumerate-the-values-of-a-range-in-google-refine-openrefine
+No single females in dataset
+
+988 rows
+
+15945 is max age val (divided by 16000)
+
+Misspelled 'sep' for female - (spelled as dep) - 337 fields
+
+Used and New car put into 'Car' field
+Education and retraining put into 'Education and Retraining'
+furniture/equipment and domestic appliance to 'furniture/equipment/appliance'
+male div/sep and male mar/wid into male div/sep/mar/wid
+
+
+
