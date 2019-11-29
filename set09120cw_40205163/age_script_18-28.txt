@@ -1,0 +1,15 @@
+val = float(value)
+if val < 28: 
+	return "18<=X<28" 
+elif val < 38: 
+	return "28<=X<38" 
+elif val < 48: 
+	return "38<=X<48" 
+elif val < 58: 
+	return "48<=X<58" 
+elif val < 68: 
+	 return "58<=X<68" 
+elif val < 78: 
+	return "68<=X<78" 
+elif val < 88: 
+	return "78<=X<88"
